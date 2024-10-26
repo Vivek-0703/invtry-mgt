@@ -284,9 +284,7 @@ function Dashboard() {
               width="500"
             />
           </div>
-          <div>
-            <Doughnut data={data} />
-          </div>
+          
         </div>
       </div>
     </>
